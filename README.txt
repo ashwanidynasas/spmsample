@@ -1,6 +1,6 @@
 # SwiftUI Centered
 
-## installation
+##
 
 To install the package,
 
